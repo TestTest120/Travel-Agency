@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-image: linear-gradient(#89B0C6,#53788E,#1B445C);
+   padding: 50px;
+}
+iframe{
+    padding:10px ;
+    border: 5px solid #A78E70	;
+}
+p {
+    font-size: 40px;
+    color:#916229 ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.t {
+     position:fixed;
+    right:10px;
+    top:120px;
+    background-color:#EFD5B5;
+    width: 180px;
+    border-bottom: 8px solid #53788E	;
+    border-top: 8px solid#53788E	;
+    opacity: 1;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
